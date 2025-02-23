@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 8.382,
-          "width": 1.778
+          "drill": 0.51,
+          "height": 0.85,
+          "width": 0.85
         },
         "silk_line_width": 0.3048,
         "silk_text_italic": false,
@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|139150000|116950000|6d3934d6-45bc-41ad-a3df-065b2e752b47|ae09b49b-9104-4b35-b25f-aeba7de011de",
-        "clearance|142350000|116910000|0637b2c9-2473-4205-994c-b4c75bd53537|5e5c63f5-a0fc-4f20-8296-e0395758eff5",
-        "clearance|145430000|116980000|90ca877d-36f4-4d79-ad57-09333301bef4|5ea80b84-fc2c-44d7-954f-c7b2de2f13e4",
-        "clearance|148720000|116930000|429f4306-d243-4a91-86c0-d72ba05144b0|051463d8-dadb-4b83-aaf4-8f4a5924eddf"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -544,7 +539,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
